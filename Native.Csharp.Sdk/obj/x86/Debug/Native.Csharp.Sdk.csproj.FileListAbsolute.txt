@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\bin\x86\Debug\Native.Csharp.Sdk.xml
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\bin\x86\Debug\Native.Csharp.Sdk.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\bin\x86\Debug\Native.Csharp.Sdk.pdb
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\obj\x86\Debug\Native.Csharp.Sdk.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\obj\x86\Debug\Native.Csharp.Sdk.pdb
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Sdk\obj\x86\Debug\Native.Csharp.Sdk.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\bin\x86\Debug\Native.Csharp.Tool.xml
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\bin\x86\Debug\Native.Csharp.Tool.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\bin\x86\Debug\Native.Csharp.Tool.pdb
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\obj\x86\Debug\Native.Csharp.Tool.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\obj\x86\Debug\Native.Csharp.Tool.SQLite.Resources.SR.resources
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\obj\x86\Debug\Native.Csharp.Tool.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\obj\x86\Debug\Native.Csharp.Tool.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp.Tool\obj\x86\Debug\Native.Csharp.Tool.pdb
