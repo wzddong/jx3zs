@@ -1,33 +1,34 @@
-ï»¿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Native.Csharp.Jx3zs;
 using Native.Csharp.Sdk.Cqp.EventArgs;
 using Native.Csharp.Sdk.Cqp.Interface;
 
 namespace Native.Csharp.App.Event
 {
     /// <summary>
-	/// Type=1001 é…·Qå¯åŠ¨, äº‹ä»¶å®ç°
+	/// Type=1001 ¿áQÆô¶¯, ÊÂ¼şÊµÏÖ
 	/// </summary>
     public class Event_CqStartup : ICqStartup
     {
         /// <summary>
-		/// å¤„ç† é…·Q çš„å¯åŠ¨äº‹ä»¶å›è°ƒ
+		/// ´¦Àí ¿áQ µÄÆô¶¯ÊÂ¼ş»Øµ÷
 		/// </summary>
-		/// <param name="sender">äº‹ä»¶çš„è§¦å‘å¯¹è±¡</param>
-		/// <param name="e">äº‹ä»¶çš„é™„åŠ å‚æ•°</param>
+		/// <param name="sender">ÊÂ¼şµÄ´¥·¢¶ÔÏó</param>
+		/// <param name="e">ÊÂ¼şµÄ¸½¼Ó²ÎÊı</param>
         public void CqStartup (object sender, CqStartupEventArgs e)
         {
-            // æœ¬æ–¹æ³•ä¼šåœ¨é…·Qã€ä¸»çº¿ç¨‹ã€‘ä¸­è¢«è°ƒç”¨ã€‚
-            // æ¯æ¬¡å¯åŠ¨é…·Qåï¼Œåº”ç”¨å¯ç”¨å¹¶è¢«åŠ è½½æ—¶ï¼Œæœ¬æ–¹æ³•å°†è¢«è°ƒç”¨ï¼Œè¯·åœ¨è¿™é‡Œæ‰§è¡Œæ’ä»¶åˆå§‹åŒ–ä»£ç ã€‚
-            // è¯·åŠ¡å¿…å°½å¿«ç¼©çŸ­æœ¬æ–¹æ³•çš„æ‰§è¡Œæ—¶é—´ï¼Œå¦åˆ™ä¼šå¡ä½å…¶ä»–æ’ä»¶ä»¥åŠä¸»ç¨‹åºçš„åŠ è½½ã€‚
+            // ±¾·½·¨»áÔÚ¿áQ¡¾Ö÷Ïß³Ì¡¿ÖĞ±»µ÷ÓÃ¡£
+            // Ã¿´ÎÆô¶¯¿áQºó£¬Ó¦ÓÃÆôÓÃ²¢±»¼ÓÔØÊ±£¬±¾·½·¨½«±»µ÷ÓÃ£¬ÇëÔÚÕâÀïÖ´ĞĞ²å¼ş³õÊ¼»¯´úÂë¡£
+            // ÇëÎñ±Ø¾¡¿ìËõ¶Ì±¾·½·¨µÄÖ´ĞĞÊ±¼ä£¬·ñÔò»á¿¨×¡ÆäËû²å¼şÒÔ¼°Ö÷³ÌĞòµÄ¼ÓÔØ¡£
 
-            Common.AppDirectory = Common.CqApi.GetAppDirectory ();  // è·å–åº”ç”¨æ•°æ®ç›®å½•(æ— éœ€å‚¨å­˜æ•°æ®æ—¶ï¼Œè¯·å°†æ­¤è¡Œæ³¨é‡Š)
-
-            // è¿”å›å¦‚ï¼šD:\CoolQ\data\app\com.example.demo\
-            // åº”ç”¨çš„æ‰€æœ‰æ•°æ®ã€é…ç½®ã€å¿…é¡»ã€‘å­˜æ”¾äºæ­¤ç›®å½•ï¼Œé¿å…ç»™ç”¨æˆ·å¸¦æ¥å›°æ‰°ã€‚
+            Common.AppDirectory = Common.CqApi.GetAppDirectory ();  // »ñÈ¡Ó¦ÓÃÊı¾İÄ¿Â¼(ÎŞĞè´¢´æÊı¾İÊ±£¬Çë½«´ËĞĞ×¢ÊÍ)
+            //TaskHelper.timer.Start();
+            // ·µ»ØÈç£ºD:\CoolQ\data\app\com.example.demo\
+            // Ó¦ÓÃµÄËùÓĞÊı¾İ¡¢ÅäÖÃ¡¾±ØĞë¡¿´æ·ÅÓÚ´ËÄ¿Â¼£¬±ÜÃâ¸øÓÃ»§´øÀ´À§ÈÅ¡£
         }
     }
 }

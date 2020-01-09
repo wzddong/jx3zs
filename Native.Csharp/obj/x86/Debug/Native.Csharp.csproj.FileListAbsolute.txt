@@ -1,6 +1,6 @@
-C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Debug\Native.Csharp.csprojAssemblyReference.cache
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Debug\com.jx3zs.helper.json
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Debug\com.jx3zs.helper.dll
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Debug\com.jx3zs.helper.pdb
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Debug\Native.Csharp.csprojAssemblyReference.cache
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Debug\com.jx3zs.helper.dll
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Debug\com.jx3zs.helper.pdb

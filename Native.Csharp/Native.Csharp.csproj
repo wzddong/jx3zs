@@ -124,8 +124,12 @@
     <Compile Include="App\Event\Event_CqExit.cs" />
     <Compile Include="App\Event\Event_CqStartup.cs" />
     <Compile Include="App\Event\Event_GroupMessage.cs" />
+    <Compile Include="Database\SQLite.cs" />
+    <Compile Include="Jx3zs\SqliteHelper.cs" />
+    <Compile Include="Jx3zs\TaskHelper.cs" />
     <Compile Include="Jx3zs\Tools.cs" />
     <Compile Include="Model\Price.cs" />
+    <Compile Include="Model\Server.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repair\Core\Kernel32.cs" />
     <Compile Include="Repair\Enum\LoadLibraryFlags.cs" />
@@ -144,6 +148,10 @@
     <ProjectReference Include="..\Native.Csharp.Sdk\Native.Csharp.Sdk.csproj">
       <Project>{797eaebc-4d5b-4eef-87f4-a508fda2cb6a}</Project>
       <Name>Native.Csharp.Sdk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Native.Csharp.Tool\Native.Csharp.Tool.csproj">
+      <Project>{9db94cbf-6843-4ea3-9241-769124416fe9}</Project>
+      <Name>Native.Csharp.Tool</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

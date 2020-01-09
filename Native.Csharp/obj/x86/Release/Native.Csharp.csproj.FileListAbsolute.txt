@@ -1,6 +1,9 @@
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\Native.Csharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\com.jx3zs.helper.json
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\com.jx3zs.helper.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\com.jx3zs.helper.pdb
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\com.jx3zs.helper.dll
+C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\com.jx3zs.helper.pdb
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Release\com.jx3zs.helper.json
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Release\com.jx3zs.helper.dll
 C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\bin\x86\Release\com.jx3zs.helper.pdb
-C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\Native.Csharp.csprojAssemblyReference.cache
-C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\com.jx3zs.helper.dll
-C:\Users\Administrator\Downloads\Native.Csharp.Frame-Final\Native.Csharp\obj\x86\Release\com.jx3zs.helper.pdb

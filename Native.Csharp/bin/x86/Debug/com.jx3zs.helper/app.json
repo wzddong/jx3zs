@@ -1,4 +1,4 @@
-// 酷Q 的Json文件支持以 // 开头的注释。
+﻿// 酷Q 的Json文件支持以 // 开头的注释。
 // 开发模式下，应用的 app.dll 及 app.json 文件须放在 dev/[appid]/ 目录下，应用 AppInfo 函数返回的内容须改为 appid
 // 如 appid=com.example.demo, 则dll及json文件需分别放在 dev/com.example.demo/app.dll、dev/com.example.demo/app.json
 // [重要] appid 规则见 https://cqp.im/v9/appid
@@ -6,7 +6,7 @@
   "ret": 1, // 返回码，固定为1
   "apiver": 9, // Api版本，本SDK为9
   "name": "剑三助手", // 应用名称
-  "version": "1.0.1", // 应用版本
+  "version": "1.0.3", // 应用版本
   "version_id": 1, // 应用顺序版本（每次发布时至少+1）
   "author": "dger", // 应用作者
   "description": "剑三助手，群内发送 剑三  获取功能菜单",
